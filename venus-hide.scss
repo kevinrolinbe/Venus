@@ -1,0 +1,35 @@
+@media (min-width: 0) and (max-width: 767px) {
+  .venus-hide-sm,
+  .venus-h-sm
+  {
+    display: none;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .venus-hide-md,
+  .venus-h-md
+  {
+    display: none;
+  }
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+  .venus-hide-lg,
+  .venus-h-lg
+  {
+    display: none;
+  }
+}
+@media (min-width: 1200px) and (max-width: 1399px) {
+  .venus-hide-xl,
+  .venus-h-xl
+  {
+    display: none;
+  }
+}
+@media (min-width: 1400px) {
+  .venus-hide-xxl,
+  .venus-h-xxl
+  {
+    display: none;
+  }
+}
